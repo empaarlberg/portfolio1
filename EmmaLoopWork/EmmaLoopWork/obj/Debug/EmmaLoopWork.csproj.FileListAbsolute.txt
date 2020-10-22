@@ -1,0 +1,10 @@
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\bin\Debug\EmmaLoopWork.exe.config
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\bin\Debug\EmmaLoopWork.exe
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\bin\Debug\EmmaLoopWork.pdb
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.csprojAssemblyReference.cache
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.Form1.resources
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.Properties.Resources.resources
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.csproj.GenerateResource.cache
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.csproj.CoreCompileInputs.cache
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.exe
+C:\Student1400\EmmaLoopWork\EmmaLoopWork\obj\Debug\EmmaLoopWork.pdb

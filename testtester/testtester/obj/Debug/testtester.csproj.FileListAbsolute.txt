@@ -1,0 +1,10 @@
+C:\Student1400\testtester\testtester\bin\Debug\testtester.exe.config
+C:\Student1400\testtester\testtester\bin\Debug\testtester.exe
+C:\Student1400\testtester\testtester\bin\Debug\testtester.pdb
+C:\Student1400\testtester\testtester\obj\Debug\testtester.csprojAssemblyReference.cache
+C:\Student1400\testtester\testtester\obj\Debug\testtester.Form1.resources
+C:\Student1400\testtester\testtester\obj\Debug\testtester.Properties.Resources.resources
+C:\Student1400\testtester\testtester\obj\Debug\testtester.csproj.GenerateResource.cache
+C:\Student1400\testtester\testtester\obj\Debug\testtester.csproj.CoreCompileInputs.cache
+C:\Student1400\testtester\testtester\obj\Debug\testtester.exe
+C:\Student1400\testtester\testtester\obj\Debug\testtester.pdb
