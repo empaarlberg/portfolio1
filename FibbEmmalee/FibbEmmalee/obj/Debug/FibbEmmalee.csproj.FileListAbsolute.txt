@@ -1,0 +1,10 @@
+C:\Student1400\FibbEmmalee\FibbEmmalee\bin\Debug\FibbEmmalee.exe.config
+C:\Student1400\FibbEmmalee\FibbEmmalee\bin\Debug\FibbEmmalee.exe
+C:\Student1400\FibbEmmalee\FibbEmmalee\bin\Debug\FibbEmmalee.pdb
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.csprojAssemblyReference.cache
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.Form1.resources
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.Properties.Resources.resources
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.csproj.GenerateResource.cache
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.csproj.CoreCompileInputs.cache
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.exe
+C:\Student1400\FibbEmmalee\FibbEmmalee\obj\Debug\FibbEmmalee.pdb
