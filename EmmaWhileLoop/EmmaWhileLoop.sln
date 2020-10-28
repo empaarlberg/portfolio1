@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmmaWhileLoop", "EmmaWhileLoop\EmmaWhileLoop.csproj", "{5C457CD7-AA49-4FBE-A6B7-E1458C829E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C457CD7-AA49-4FBE-A6B7-E1458C829E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C457CD7-AA49-4FBE-A6B7-E1458C829E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C457CD7-AA49-4FBE-A6B7-E1458C829E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C457CD7-AA49-4FBE-A6B7-E1458C829E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE147EB-5356-4DE7-948C-A05F6786471E}
+	EndGlobalSection
+EndGlobal

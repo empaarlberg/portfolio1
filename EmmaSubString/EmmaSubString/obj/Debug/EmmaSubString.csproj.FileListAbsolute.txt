@@ -1,0 +1,10 @@
+C:\Student1400\EmmaSubString\EmmaSubString\bin\Debug\EmmaSubString.exe.config
+C:\Student1400\EmmaSubString\EmmaSubString\bin\Debug\EmmaSubString.exe
+C:\Student1400\EmmaSubString\EmmaSubString\bin\Debug\EmmaSubString.pdb
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.csprojAssemblyReference.cache
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.Form1.resources
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.Properties.Resources.resources
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.csproj.GenerateResource.cache
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.csproj.CoreCompileInputs.cache
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.exe
+C:\Student1400\EmmaSubString\EmmaSubString\obj\Debug\EmmaSubString.pdb

@@ -1,0 +1,10 @@
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\bin\Debug\EmmaWhileLoop.exe.config
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\bin\Debug\EmmaWhileLoop.exe
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\bin\Debug\EmmaWhileLoop.pdb
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.csprojAssemblyReference.cache
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.Form1.resources
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.Properties.Resources.resources
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.csproj.GenerateResource.cache
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.csproj.CoreCompileInputs.cache
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.exe
+C:\Student1400\EmmaWhileLoop\EmmaWhileLoop\obj\Debug\EmmaWhileLoop.pdb
